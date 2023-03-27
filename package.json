@@ -6,12 +6,18 @@
       "name": "aliyun",
       "major": 1,
       "minor": 0,
-      "patch": 375,
+      "patch": 377,
       "digests": {
-        "windows_amd64": "758d8883b65f22451a93fd01d12c3186"
+        "windows_amd64": "81960c336a272ecfb3b326396181d781"
       },
       "dataset": "/dlse/assets/",
       "desc": "AliyunDrive DLS Engine"
+    }
+  ],
+  "accounts": [
+    {
+      "username": "root",
+      "password": "A155947F3CCDCDE7A93951925F0330D7"
     }
   ]
 }
