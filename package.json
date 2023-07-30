@@ -6,9 +6,9 @@
       "name": "aliyun",
       "major": 1,
       "minor": 0,
-      "patch": 377,
+      "patch": 381,
       "digests": {
-        "windows_amd64": "81960c336a272ecfb3b326396181d781"
+        "windows_amd64": "5752f8e1e03bfcf8d7f2b6cffea74c32"
       },
       "dataset": "/dlse/assets/",
       "desc": "AliyunDrive DLS Engine"
